@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.a2d45e29.css",
+    "main.js": "/personal-website/static/js/main.9cbfe188.js",
+    "static/media/walletwise.jpg": "/personal-website/static/media/walletwise.45212bf1fe602faa2d26.jpg",
+    "static/media/tutorgo.png": "/personal-website/static/media/tutorgo.37a7f1f8bb34d09a434a.png",
+    "static/media/dsai.png": "/personal-website/static/media/dsai.b208724508da30c7419a.png",
+    "static/media/pano-regular.otf": "/personal-website/static/media/pano-regular.b726bc6e18c69290ec5e.otf",
+    "static/media/pano-bold.otf": "/personal-website/static/media/pano-bold.dc574f9ad2f141ee7745.otf",
+    "static/media/pano-light.otf": "/personal-website/static/media/pano-light.544aef2823e428a54bdc.otf",
+    "index.html": "/personal-website/index.html",
+    "main.a2d45e29.css.map": "/personal-website/static/css/main.a2d45e29.css.map",
+    "main.9cbfe188.js.map": "/personal-website/static/js/main.9cbfe188.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2d45e29.css",
+    "static/js/main.9cbfe188.js"
+  ]
+}
