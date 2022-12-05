@@ -26,7 +26,7 @@ footer a:hover {
    flex-wrap: wrap;
    justify-content: center;
    column-gap: 1.7rem;
-   margin: 0 auto 3rem;
+   margin: 0 3rem 3rem;
    font-size: 0.75rem;
 }
 
