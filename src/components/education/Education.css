@@ -1,0 +1,26 @@
+body {
+   background-color: var(--color-white);
+}
+
+.education__subheading {
+   display: flex;
+   justify-content: space-between;
+}
+
+.education__content {
+   font-family: 'Pano';
+   margin-top: 0.5rem;
+   font-size: 0.8rem;
+   font-weight: 400;
+   line-height: 2;
+}
+
+@media screen and (max-width: 1024px) {
+   .education__subheading {
+      display: block;
+   }
+}
+
+#education {
+   scroll-margin-top: 50px;
+ }

@@ -1,0 +1,29 @@
+.nav {
+   display: inline-flex;
+   flex-wrap: wrap;
+}
+
+.nav li {
+   margin: 10px;
+}
+
+.nav li a {
+   color: var(--color-dark)
+}
+
+.nav li a:hover {
+   color: var(--color-primary)
+}
+
+.main-nav {
+   font-size: 0.8rem;
+   right: -16rem;
+   bottom: 20rem;
+   position: fixed;
+   z-index: 3000;
+   transform: rotate(90deg);
+}
+
+.nav li::before {
+   content: "";
+}

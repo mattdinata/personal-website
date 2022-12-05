@@ -1,0 +1,42 @@
+#experiences {
+   padding-top: 7rem;
+   padding-bottom: 7rem;
+   clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0 90%);
+   background-color: var(--color-primary-variant);
+}
+
+#experiences h2 {
+   color: var(--color-white)
+}
+
+#experiences h4 {
+   color: var(--color-light)
+}
+
+.experiences__container {
+   padding-bottom: 0.8rem;
+}
+
+.experiences__subheading {
+   display: flex;
+   justify-content: space-between;
+}
+
+.experiences__subheading h5 {
+   color: var(--color-white);
+   font-weight: 500;
+}
+
+.experiences__content {
+   font-family: 'Pano';
+   margin-top: 0.5rem;
+   font-size: 0.8rem;
+   font-weight: 400;
+   line-height: 2;
+}
+
+@media screen and (max-width: 1024px) {
+   .experiences__subheading {
+      display: block;
+   }
+}
