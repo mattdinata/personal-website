@@ -23,3 +23,12 @@
    height: 4.2rem;
    background: var(--color-dark)
 }
+
+/* --- MEDIA QUERY - SMALL --- */
+@media screen and (max-width: 600px) {
+   .nav__socials {
+      
+      left: 1.1rem;
+      
+   }
+}

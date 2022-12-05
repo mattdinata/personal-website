@@ -27,3 +27,12 @@
 .nav li::before {
    content: "";
 }
+
+/* --- MEDIA QUERY - SMALL --- */
+@media screen and (max-width: 600px) {
+   .main-nav {
+      
+      right: -16.9rem;
+      
+   }
+}
