@@ -5,7 +5,7 @@ import './About.css'
 const About = () => {
 
   useEffect(() => {
-    require("./slide.js")
+    require("../../utils/slide.js")
   }, []);
 
   return (

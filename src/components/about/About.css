@@ -20,23 +20,6 @@ header {
   margin-top: 0;
 }
 
-/* color variables for color shift */
-:root {
-  --color-1: #c3feff;
-  --color-2: #99f0c0;
-  --color-3: #c8f9af;
-  --color-4: #f9e2ab;
-  --color-5: #f7cfed;
-}
-
-[data-theme="dark"] {
-  --color-1: #021d3b;
-  --color-2: #371334;
-  --color-3: #022526;
-  --color-4: #3f061b;
-  --color-5: #280939;
-}
-
 @keyframes backgroundColorPalette {
 	0% {
 		background: var(--color-1);

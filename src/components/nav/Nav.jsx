@@ -1,12 +1,10 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import './Nav.css'
 
 const Nav = () => {
-
   
   return (
     <div className="main-nav animate__animated animate__fadeIn animate__slower animate__delay-1s">
-      
     
       <ul className="nav">
         <li><a href="#">01. home</a></li>
