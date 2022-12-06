@@ -14,7 +14,7 @@ const Education = () => {
       <div className="container education__container">
         <div className="education__subheading">
           <h4>Nanyang Technological University</h4>
-          <h5 style={{fontWeight: "500", fontStyle: "italic"}}>Aug 2021 - Present</h5>
+          <h5 style={{fontWeight: "500", fontStyle: "italic", color: "var(--color-highlight)"}}>Aug 2021 - Present</h5>
         </div>
         <div className="education__subheading">
           <h5>Bachelor of Electrical and Electronic Engineering</h5>

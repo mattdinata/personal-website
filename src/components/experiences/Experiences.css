@@ -11,9 +11,10 @@
    padding-bottom: 2rem;
 }
 
-#experiences h4 {
-   color: var(--color-light)
+.experiences__subheading :nth-child(2) {
+   color: var(--color-light);
 }
+
 
 .experiences__container {
    padding-bottom: 0.8rem;

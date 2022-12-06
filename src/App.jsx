@@ -21,12 +21,11 @@ const App = () => {
 
   return (
     <div> 
-      {/* data-theme={theme} ADD TO DIV ABOVE */}
         {/* <div className="theme-toggle">
           <i onClick={switchTheme} className="fas fa-toggle-on"></i>
-        </div> */}
+  </div> */}
       <section id="header"><About /></section>
-      <section id="profile"> 
+      <section id="profile">
         <Nav />
         <Socials />
         <Education />

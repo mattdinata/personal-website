@@ -92,8 +92,9 @@
 }
    
 body {
-   background-color: var(--color-white);
-   color: var(--color-dark)
+   font-family: "Pano";
+   color: var(--color-dark);
+   line-height: 1.7;
 }
 
 html {
@@ -103,13 +104,6 @@ html {
 ::-webkit-scrollbar {
    /* remove scrollbar */
    display: none;
-}
-
-body {
-   font-family: "Pano";
-   background: var(--color-bg);
-   color: var(--color-dark);
-   line-height: 1.7;
 }
 
 /* --- GENERAL STYLES --- */
