@@ -5,6 +5,13 @@ import TUTORGO from '../../assets/tutorgo.png'
 import DSAI from '../../assets/dsai.png'
 import WALLETWISE from '../../assets/walletwise.jpg'
 
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
+AOS.init();
+
+
+
 
 // PROJECTS ARRAY
 const data = [
@@ -30,10 +37,10 @@ const data = [
 
 const Projects = () => {
   return (
-    <section id="projects">
+    <section id="projects" data-aos="zoom-in-up">
       <h2>PAST PROJECTS</h2>
 
-      <div className="container projects__container">
+      <div className="container projects__container" data-aos="flip-up" data-aos-delay="300" data-aos-duration="500">
 
         {
           data.map(({id, image, title, info}) => {
@@ -44,7 +51,7 @@ const Projects = () => {
                 </div>
                 <h4>{title}</h4>
                 <div className="projects__item-cta">
-                  <a href={info} className='btn' target="_blank">VIEW</a>
+                  <a href={info} className='btn'  target="_blank">VIEW</a>
                 </div>
               </article>
             )

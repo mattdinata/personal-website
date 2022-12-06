@@ -1,10 +1,17 @@
 import React from 'react'
 import './Experiences.css'
 
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
+AOS.init();
+
 const Experiences = () => {
   return (
     <section id="experiences">
-      <h2>ACTIVITIES</h2>
+      <div data-aos="zoom-in-up">
+      <h2 style={{textAlign: 'center'}}>ACTIVITIES</h2>
+
 
       <div className="container experiences__container">
         <div className="experiences__subheading">
@@ -35,7 +42,7 @@ const Experiences = () => {
           <h5>UI/UX Committee</h5>
         </div>
       </div>
-      
+      </div>
     </section>
   )
 }

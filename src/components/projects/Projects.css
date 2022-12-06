@@ -2,6 +2,7 @@
    letter-spacing: 3px;
    font-weight: 600;
    font-size: 0.7rem;
+   text-align: center;
 }
 
 .projects__item-cta {
@@ -24,7 +25,7 @@
    background: var(--color-bg-variant);
    padding: 1.3rem;
    border-radius: 1.3rem;
-   border: 1px solid transparent;
+   border: 2px solid transparent;
    transition: var(--transition);
 }
 
@@ -46,6 +47,7 @@
    font-size: smaller;
    margin: 1.2rem 0 2rem;
    color: var(--color-dark);
+   text-align: center;
 }
 
 /* --- MEDIA QUERY - MEDIUM --- */
@@ -66,4 +68,6 @@
 
 #projects {
    scroll-margin-top: 50px;
+   padding-top: 5rem;
+   padding-bottom: 10rem;
 }

@@ -1,9 +1,14 @@
 import React from 'react'
 import './Education.css'
 
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
+AOS.init();
+
 const Education = () => {
   return (
-    <section id="education">
+    <section id="education" data-aos="zoom-in-up">
       <h2>EDUCATION</h2>
 
       <div className="container education__container">

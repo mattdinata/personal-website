@@ -16,6 +16,7 @@
 }
 
 .main-nav {
+   display: flex;
    font-size: 0.8rem;
    right: -16rem;
    bottom: 20rem;

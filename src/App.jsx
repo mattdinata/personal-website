@@ -12,6 +12,7 @@ import Footer from './components/footer/Footer'
 const App = () => {
   return (
     <>
+    
       <section id="header"><About /></section>
         
       <section id="profile"> 

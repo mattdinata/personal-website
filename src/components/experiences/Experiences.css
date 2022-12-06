@@ -1,12 +1,14 @@
 #experiences {
-   padding-top: 7rem;
-   padding-bottom: 7rem;
+   padding-top: 12rem;
+   padding-bottom: 17rem;
    clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0 90%);
    background-color: var(--color-primary-variant);
+
 }
 
 #experiences h2 {
-   color: var(--color-white)
+   color: #ffffff;
+   padding-bottom: 2rem;
 }
 
 #experiences h4 {
@@ -15,6 +17,7 @@
 
 .experiences__container {
    padding-bottom: 0.8rem;
+   padding-top: 0.8rem;
 }
 
 .experiences__subheading {
@@ -23,7 +26,7 @@
 }
 
 .experiences__subheading h5 {
-   color: var(--color-white);
+   color: #ffffff;
    font-weight: 500;
 }
 

@@ -10,7 +10,7 @@ header {
   align-items: center;
 
 	animation-name: backgroundColorPalette;
-	animation-duration: 7s;
+	animation-duration: 8s;
 	animation-iteration-count: infinite;
 	animation-direction: alternate;
 	animation-timing-function: linear; 
@@ -20,21 +20,38 @@ header {
   margin-top: 0;
 }
 
+/* color variables for color shift */
+:root {
+  --color-1: #c3feff;
+  --color-2: #99f0c0;
+  --color-3: #c8f9af;
+  --color-4: #f9e2ab;
+  --color-5: #f7cfed;
+}
+
+[data-theme="dark"] {
+  --color-1: #021d3b;
+  --color-2: #371334;
+  --color-3: #022526;
+  --color-4: #3f061b;
+  --color-5: #280939;
+}
+
 @keyframes backgroundColorPalette {
 	0% {
-		background: #c3feff;
+		background: var(--color-1);
 	}
 	25% {
-		background: #99f0c0;
+		background: var(--color-2);
 	}
 	50% {
-		background: #c8f9af;
+		background: var(--color-3);
 	}
 	75% {
-		background: #f9e2ab;
+		background: var(--color-4);
 	}
 	100% {
-		background: #f7cfed;
+		background: var(--color-5);
 	}
 }
 
