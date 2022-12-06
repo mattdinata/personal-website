@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f1658db.css",
-    "main.js": "/static/js/main.1f266f2b.js",
-    "static/media/walletwise.jpg": "/static/media/walletwise.45212bf1fe602faa2d26.jpg",
-    "static/media/tutorgo.png": "/static/media/tutorgo.37a7f1f8bb34d09a434a.png",
-    "static/media/dsai.png": "/static/media/dsai.b208724508da30c7419a.png",
-    "static/media/pano-regular.otf": "/static/media/pano-regular.b726bc6e18c69290ec5e.otf",
-    "static/media/pano-bold.otf": "/static/media/pano-bold.dc574f9ad2f141ee7745.otf",
-    "static/media/pano-light.otf": "/static/media/pano-light.544aef2823e428a54bdc.otf",
-    "index.html": "/index.html",
-    "main.6f1658db.css.map": "/static/css/main.6f1658db.css.map",
-    "main.1f266f2b.js.map": "/static/js/main.1f266f2b.js.map"
+    "main.css": "/personal-website/static/css/main.0c00a202.css",
+    "main.js": "/personal-website/static/js/main.0cd71c5d.js",
+    "static/media/walletwise.jpg": "/personal-website/static/media/walletwise.45212bf1fe602faa2d26.jpg",
+    "static/media/tutorgo.png": "/personal-website/static/media/tutorgo.37a7f1f8bb34d09a434a.png",
+    "static/media/dsai.png": "/personal-website/static/media/dsai.b208724508da30c7419a.png",
+    "static/media/pano-regular.otf": "/personal-website/static/media/pano-regular.b726bc6e18c69290ec5e.otf",
+    "static/media/pano-bold.otf": "/personal-website/static/media/pano-bold.dc574f9ad2f141ee7745.otf",
+    "static/media/pano-light.otf": "/personal-website/static/media/pano-light.544aef2823e428a54bdc.otf",
+    "index.html": "/personal-website/index.html",
+    "main.0c00a202.css.map": "/personal-website/static/css/main.0c00a202.css.map",
+    "main.0cd71c5d.js.map": "/personal-website/static/js/main.0cd71c5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f1658db.css",
-    "static/js/main.1f266f2b.js"
+    "static/css/main.0c00a202.css",
+    "static/js/main.0cd71c5d.js"
   ]
 }
