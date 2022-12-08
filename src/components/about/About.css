@@ -47,7 +47,7 @@ header {
   display: inline-block;
 }
 .left {
-  color: var(--color-highlight);
+  color: var(--color-light);
   transform: skew(0deg, -15deg);
 }
 

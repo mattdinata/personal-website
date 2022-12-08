@@ -2,12 +2,16 @@
    padding-top: 12rem;
    padding-bottom: 17rem;
    clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0 90%);
-   background-color: var(--color-primary-variant);
-
+   /* background-color: var(--color-primary-variant); */
+   animation-name: backgroundColorPalette;
+	animation-duration: 8s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: linear; 
 }
 
 #experiences h2 {
-   color: #ffffff;
+   color: var(--color-light);
    padding-bottom: 2rem;
 }
 
@@ -17,7 +21,7 @@
 
 
 .experiences__container {
-   padding-bottom: 0.8rem;
+   padding-bottom: 2rem;
    padding-top: 0.8rem;
 }
 
