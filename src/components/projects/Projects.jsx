@@ -19,13 +19,13 @@ const data = [
     id: 1,
     image: TUTORGO,
     title: 'Website Showcase using Bootstrap5',
-    info: 'https://github.com/mattdinata/tutorgo-landing-page'
+    info: 'https://github.com/matthewdinata/tutorgo-landing-page'
   },
   {
     id: 2,
     image: DSAI,
     title: 'Multiclass Classification in Jupyter Notebook',
-    info: 'https://github.com/mattdinata/dsai-classification-project'
+    info: 'https://github.com/matthewdinata/dsai-classification-project'
   },
   {
     id: 3,

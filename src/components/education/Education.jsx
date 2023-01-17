@@ -23,7 +23,6 @@ const Education = () => {
         <div className="education__content">
           <ul>
             <li>ASEAN Undergraduate Scholarship awardee</li>
-            <li>CGPA: 4.67/5.00</li>
             <li>Dean's List AY2021/2022</li>
             <li>Relevant Modules:<br/>
               <p style={{fontSize: "0.7rem", lineHeight: "1.7", paddingTop: "3px"}}>
