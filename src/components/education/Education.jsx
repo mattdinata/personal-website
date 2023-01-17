@@ -40,9 +40,10 @@ const Education = () => {
 
         <div className="education__content">
           <ul>
-            <li>Complete Python Bootcamp From Zero to Hero in Python<em style={{paddingLeft: "1.5rem", fontStyle: "normal", color: "var(--color-highlight)"}}>by Jose Portilla, Udemy</em></li>
-            <li>Responsive Web Design<em style={{paddingLeft: "1.5rem", fontStyle: "normal", color: "var(--color-highlight)"}}>by freeCodeCamp</em></li>
+            <li>Build Web Apps with React & Firebase<em style={{paddingLeft: "1.5rem", fontStyle: "normal", color: "var(--color-highlight)"}}>by Shaun Pelling, Udemy</em></li>
             <li>JavaScript Algorithms and Data Structures<em style={{paddingLeft: "1.5rem", fontStyle: "normal", color: "var(--color-highlight)"}}>by freeCodeCamp</em></li>
+            <li>Responsive Web Design<em style={{paddingLeft: "1.5rem", fontStyle: "normal", color: "var(--color-highlight)"}}>by freeCodeCamp</em></li>
+            <li>Complete Python Bootcamp From Zero to Hero in Python<em style={{paddingLeft: "1.5rem", fontStyle: "normal", color: "var(--color-highlight)"}}>by Jose Portilla, Udemy</em></li>
           </ul>
         </div>
       </div>
