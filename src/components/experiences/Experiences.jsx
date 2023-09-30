@@ -39,7 +39,7 @@ const Experiences = () => {
             </h5>
           </div>
           <div className='experiences__subtitle'>
-            <h5>Software Engineering Intern</h5>
+            <h5>Software Engineer Intern</h5>
             <h6>Mobile Engineering Department</h6>
           </div>
         </div>
