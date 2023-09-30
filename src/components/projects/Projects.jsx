@@ -51,7 +51,7 @@ const Projects = () => {
                 </div>
                 <h4>{title}</h4>
                 <div className="projects__item-cta">
-                  <a href={info} className='btn'  target="_blank">VIEW</a>
+                  <a href={info} className='btn'  target="_blank" rel="noreferrer">VIEW</a>
                 </div>
               </article>
             )
