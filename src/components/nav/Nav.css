@@ -1,39 +1,37 @@
 .nav {
-   display: inline-flex;
-   flex-wrap: wrap;
+  display: inline-flex;
+  flex-wrap: wrap;
 }
 
 .nav li {
-   margin: 10px;
+  margin: 10px;
 }
 
 .nav li a {
-   color: var(--color-dark)
+  color: var(--color-dark);
 }
 
 .nav li a:hover {
-   color: var(--color-primary)
+  color: var(--color-primary);
 }
 
 .main-nav {
-   display: flex;
-   font-size: 0.8rem;
-   right: -16rem;
-   bottom: 20rem;
-   position: fixed;
-   z-index: 3000;
-   transform: rotate(90deg);
+  display: flex;
+  font-size: 0.8rem;
+  right: -16rem;
+  bottom: 21rem;
+  position: fixed;
+  z-index: 3000;
+  transform: rotate(90deg);
 }
 
 .nav li::before {
-   content: "";
+  content: '';
 }
 
 /* --- MEDIA QUERY - SMALL --- */
 @media screen and (max-width: 600px) {
-   .main-nav {
-      
-      right: -16.9rem;
-      
-   }
+  .main-nav {
+    right: -16.9rem;
+  }
 }
