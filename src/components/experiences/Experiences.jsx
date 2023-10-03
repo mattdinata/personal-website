@@ -23,7 +23,7 @@ const Experiences = () => {
             </h5>
           </div>
           <div className='experiences__subtitle'>
-            <h5>Software Engineer Intern</h5>
+            <h5>Full-Stack Developer Intern</h5>
             <h6>Fixed Income & Multi-Asset Department</h6>
           </div>
         </div>
