@@ -37,8 +37,8 @@ const Education = () => {
         <div className='education__content'>
           <ul>
             <li>ASEAN Undergraduate Scholarship awardee</li>
-            <li>2x Dean's List (AY21/22 & AY22/23)</li>
-
+            <li>3x Dean's List (AY21/22, AY22/23, AY23/24)</li>
+            <li>Expected Honours: Highest Distinction</li>
             <li>
               Relevant Modules:
               <br />
@@ -50,10 +50,11 @@ const Education = () => {
                 }}
               >
                 <i>
-                  From Computational Thinking to Programming
-                  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Structures &
-                  Algorithms &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Introduction
-                  to Data Science and Artificial Intelligence
+                  Software Engineering &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                  Data Structures & Algorithms
+                  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Artificial Intelligence
+                  & Data Mining &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                  Information Security
                 </i>
               </p>
             </li>

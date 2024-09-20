@@ -14,12 +14,28 @@ const Experiences = () => {
 
         <div className='container experiences__container'>
           <div className='experiences__subheading'>
+            <h4>Temasek Holdings</h4>
+            <h5
+              className='date'
+              style={{ fontWeight: '500', fontStyle: 'italic' }}
+            >
+              May 2023 - Aug 2023
+            </h5>
+          </div>
+          <div className='experiences__subtitle'>
+            <h5>Full-Stack Developer Intern</h5>
+            <h6>Digital Platforms & Services Department</h6>
+          </div>
+        </div>
+
+        <div className='container experiences__container'>
+          <div className='experiences__subheading'>
             <h4>GIC</h4>
             <h5
               className='date'
               style={{ fontWeight: '500', fontStyle: 'italic' }}
             >
-              July 2023 - Present
+              Jul 2023 - Dec 2023
             </h5>
           </div>
           <div className='experiences__subtitle'>
@@ -35,11 +51,11 @@ const Experiences = () => {
               className='date'
               style={{ fontWeight: '500', fontStyle: 'italic' }}
             >
-              May 2023 - July 2023
+              May 2023 - Jul 2023
             </h5>
           </div>
           <div className='experiences__subtitle'>
-            <h5>Software Engineer Intern</h5>
+            <h5>Software Engineer - Management Associate Intern</h5>
             <h6>Mobile Engineering Department</h6>
           </div>
         </div>
