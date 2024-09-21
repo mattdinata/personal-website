@@ -10,7 +10,7 @@ const Experiences = () => {
   return (
     <section id='experiences'>
       <div data-aos='zoom-in-up'>
-        <h2 style={{ textAlign: 'center' }}>WORK EXPERIENCES</h2>
+        <h2 style={{ textAlign: 'center' }}>EXPERIENCES</h2>
 
         <div className='container experiences__container'>
           <div className='experiences__subheading'>

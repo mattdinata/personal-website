@@ -39,7 +39,7 @@ const Projects = () => {
       id='projects'
       data-aos='zoom-in-up'
     >
-      <h2>PAST PROJECTS</h2>
+      <h2>PROJECTS</h2>
 
       <div
         className='container projects__container'
